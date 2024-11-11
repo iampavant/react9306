@@ -12,7 +12,7 @@ function Signup() {
           <input type='number' placeholder='Enter number' className='input-field' /><br />
           <input type='password' placeholder='New password' className='input-field' /><br />
         </form>
-        <Link to='/'>
+        <Link to='/react9306'>
           <button className='back-button'>Back to Login</button>
         </Link>
       </div>
