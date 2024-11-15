@@ -243,3 +243,18 @@ p {
 .view-page p{
   padding-left: 200px;
 }
+/* cart page */
+.cart-page{
+  align-items: first baseline;
+  text-align: center;
+ margin-top: 50px;
+
+border-radius:70px;
+}
+.cart-page h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.cart-page img{
+  height: 200px;
+}
