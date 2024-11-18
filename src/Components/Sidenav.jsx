@@ -31,7 +31,7 @@ function Sidenav() {
      
       <div style={{ marginTop: '300px', padding: '20px' }}>
         <Link to="/react9306">
-        <Button variant="danger" onClick={handleLogout} style={{ width: '100%' }}>
+        <Button variant="danger"  style={{ width: '100%' }}>
           Logout
         </Button>
         </Link>
